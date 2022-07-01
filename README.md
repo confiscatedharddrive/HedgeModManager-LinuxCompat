@@ -10,7 +10,7 @@ A mod manager for Hedgehog Engine games on PC. This is a fork made to primarily 
 ### Current Supported Games
 - Sonic Origins ([Steam](https://store.steampowered.com/app/1794960/Sonic_Origins/), [Epic Games Store](https://store.epicgames.com/en-US/p/sonic-origins))
 
-### WIP
+### Unsupported
 - [Sonic Generations](https://store.steampowered.com/app/71340)
 - [Sonic Lost World](https://store.steampowered.com/app/329440)
 - [Sonic Forces](https://store.steampowered.com/app/637100)
