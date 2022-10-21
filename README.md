@@ -7,6 +7,13 @@
 
 A mod manager for Hedgehog Engine games on PC. This is a fork made to primarily release non-GUI versions of the mod loaders for better compatibility on Linux systems.
 
+------------------------------------------------------------------------------------------
+
+## This project is no longer being maintained.
+### There has been enough development done on vanilla Hedgemod that it now works properly on Linux systems with all Hedgehog Engine 2 games.
+
+------------------------------------------------------------------------------------------
+
 ### Current Supported Games
 - Sonic Origins ([Steam](https://store.steampowered.com/app/1794960/Sonic_Origins/), [Epic Games Store](https://store.epicgames.com/en-US/p/sonic-origins))
 
